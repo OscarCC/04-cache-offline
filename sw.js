@@ -37,7 +37,7 @@ self.addEventListener('install', e => {
                 '/css/style.css',
                 '/img/main.jpg',
                 '/js/app.js',
-                '/img/mo-img.jpg',
+                '/img/no-img.jpg',
             ]);
 
         });
